@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    color:aquamarine;
+}
+
+
+main{
+    background-color:rgb(24, 77, 134);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(168, 113, 18);
+    border-radius: 25px;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 2px 4px 10px rgb(107, 4, 166);
+}
+p{
+    text-align: center;
+
+}
+section{
+    background-color: black;
+    color: rgb(4, 9, 11);
+    border-radius: 20px;
+    text-align: center;
+}
+article{
+    background-color:rgb(30, 80, 49);
+    border-radius: 30px;
+    box-shadow: 4px 6px 10px rgb(151, 242, 5);
+}
+aside{
+    background-color:rgb(18, 18, 212);
+    border-radius: 30px;
+    box-shadow: 4px 6px 10px rgb(151, 242, 5);
+
+}
+
+nav{
+    background-color:rgb(72, 109, 122);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(29, 14, 246);
+    border-radius: 40px;
+    text-align: center;
+    box-shadow: 5px 6px 20px rgb(151, 242, 5);
+
+}
